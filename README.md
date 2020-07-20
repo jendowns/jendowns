@@ -1,5 +1,8 @@
 hello, my name Jen!
+
 welcome to my github 💕🤗
+
+![BMO from Adventure Time dancing](https://res.cloudinary.com/jendowns/image/upload/v1595212216/bmo_jbicn7.gif)
 
 <!--
 **jendowns/jendowns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
