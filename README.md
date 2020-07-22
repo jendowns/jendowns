@@ -6,4 +6,5 @@ hello, my name is Jen! 👩🏻‍💻
 - i work as a front-end developer at [ibm](https://github.com/ibm), and i contribute to a number of libraries in [ibm's open-source design system](https://github.com/carbon-design-system).
 - ask me about javascript, accessibility, super cool css tricks and effects, and obscure layout bugs.
 - my pronouns are **she/her**.
+- fun fact: i'm a huge fan of the show *Adventure Time* (this image is from the *Adventure Time #75* comic book cover 🤩)
 
