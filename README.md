@@ -1,5 +1,5 @@
 
-<img alt="BMO from Adventure Time dancing" src="https://res.cloudinary.com/jendowns/image/upload/v1595212216/bmo_jbicn7.gif" align="right" width="300" />
+<img alt="Princess Bubblegum exploring a tunnel, from the Adventure Time #75 BOOM studios comic book cover art." src="https://res.cloudinary.com/jendowns/image/upload/v1595433150/AdventureTime-75_qlimoa.jpg" align="right" width="300" />
 
 hello, my name is Jen! 👩🏻‍💻
 
