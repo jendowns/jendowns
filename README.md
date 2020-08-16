@@ -1,5 +1,5 @@
 
-<img alt="Princess Bubblegum exploring a tunnel, from the Adventure Time #75 BOOM studios comic book cover art." src="https://res.cloudinary.com/jendowns/image/upload/v1595433150/AdventureTime-75_qlimoa.jpg" align="right" width="300" />
+<img alt="Princess Bubblegum exploring a tunnel, from the Adventure Time #75 BOOM studios comic book cover art." src="https://res.cloudinary.com/jendowns/image/upload/v1597608195/AdventureTime-75_dzrcei.png" align="right" width="300" />
 
 hello, my name is Jen! 👩🏻‍💻
 
